@@ -1,4 +1,4 @@
-# 👋 Welcome to CodeWithRishhii!
+# 👋 Welcome to CodeWithRishhiii!
 
 🚀 A community-driven space for open-source projects, coding challenges, and learners who want to *build while learning.*
 
